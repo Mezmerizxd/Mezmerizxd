@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpetsnazSicario
+- 👀 I’m interested in Web Development/Game Development
+- 💞️ I’m looking to collaborate on a FiveM/RedM Server project
+- 📫 How to reach me Spetsnaz Sicario#2509 (Discord)
