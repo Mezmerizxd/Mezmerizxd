@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezmerizxd&label=Profile%20views&color=0e75b6&style=flat" alt="mezmerizxd" /> </p>
 
-- 🔭 I’m currently working on [social-app](https://github.com/mezmerizxd/social-app-server)
+- 🔭 I’m currently working on [social-app-v2](https://github.com/mezmerizxd/social-app-v2)
 
 - 🌱 I’m currently learning **Golang, REST API Development**
 
