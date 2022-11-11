@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **rorypearson2003@hotmail.com**
 
+- Tiny portfolio [Tiny Portfolio](http://portfolio.mezmerizxd.net/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rory-pearson-8b53a8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rory pearson" height="30" width="40" /></a>
