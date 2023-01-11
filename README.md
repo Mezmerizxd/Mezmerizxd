@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rory</h1>
 <h3 align="center">A passionate software developer looking for projects where I can put my skills to use</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214bd2q73yl43qhoqf35ozzxa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezmerizxd&label=Profile%20views&color=0e75b6&style=flat" alt="mezmerizxd" /> </p>
 
 - 🔭 I’m currently working on [social-app-v2](https://github.com/mezmerizxd/social-app-v2)
