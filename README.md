@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rorypearson2003@hotmail.com**
 
-- Tiny portfolio [Tiny Portfolio](http://portfolio.mezmerizxd.net/)
+- Tiny portfolio [Tiny Portfolio](http://portfolio.zvyezda.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
